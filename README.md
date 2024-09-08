@@ -1,5 +1,5 @@
 # Weather App
-#Overview
+Overview: 
 The Weather App is a simple desktop application built using Python's tkinter library for the graphical user interface (GUI) and requests library for fetching weather data from the OpenWeatherMap API. The app allows users to enter a city name and retrieve current weather information including temperature, weather description, humidity, and wind speed.
 
 # Features
